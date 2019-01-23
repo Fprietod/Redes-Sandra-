@@ -1,0 +1,12 @@
+04/05/2017 06:06:23.047 - [Hilo_Interrupciones.run] - [INFO] - Inicio del PROGRAMA
+04/05/2017 06:06:23.063 - [Hilo_Interrupciones.run] - [INFO] - ID del Hilo_Interrupciones: 13
+04/05/2017 06:06:23.063 - [Hilo_Interrupciones.run] - [INFO] - NOMBRE del Hilo_Interrupciones: Hilo3
+04/05/2017 06:06:23.063 - [Hilo_Interrupciones.run] - [INFO] - ID del Hilo_Secuencia1: 10
+04/05/2017 06:06:23.063 - [Hilo_Interrupciones.run] - [INFO] - NOMBRE del Hilo_Secuencia1: Hilo1
+04/05/2017 06:06:23.063 - [Hilo_Interrupciones.run] - [INFO] - ID del Hilo_Secuencia2: 11
+04/05/2017 06:06:23.063 - [Hilo_Interrupciones.run] - [INFO] - NOMBRE del Hilo_Secuencia2: Hilo2
+04/05/2017 06:06:23.078 - [Hilo_Interrupciones.run] - [INFO] - Hilo 1 INICIADO
+04/05/2017 06:06:23.078 - [Hilo_Interrupciones.run] - [INFO] - Estado del Hilo 1: Thread[Hilo3,5,main]
+04/05/2017 06:06:23.078 - [Hilo_Interrupciones.run] - [INFO] - Hilo 2 INICIADO
+04/05/2017 06:06:23.078 - [Hilo_Interrupciones.run] - [INFO] - Estado del Hilo 2: Thread[Hilo3,5,main]
+04/05/2017 06:06:53.297 - [Hilo_Interrupciones.run] - [INFO] - FIN DEL PROGRAMA
